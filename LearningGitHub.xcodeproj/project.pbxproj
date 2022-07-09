@@ -11,6 +11,7 @@
 		04152E342879BA1B00141D71 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04152E332879BA1B00141D71 /* ContentView.swift */; };
 		04152E362879BA1D00141D71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04152E352879BA1D00141D71 /* Assets.xcassets */; };
 		04152E392879BA1D00141D71 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04152E382879BA1D00141D71 /* Preview Assets.xcassets */; };
+		04152E402879BF9500141D71 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04152E3F2879BF9500141D71 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		04152E332879BA1B00141D71 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		04152E352879BA1D00141D71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04152E382879BA1D00141D71 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		04152E3F2879BF9500141D71 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		04152E302879BA1B00141D71 /* LearningGitHub */ = {
 			isa = PBXGroup;
 			children = (
+				04152E3F2879BF9500141D71 /* Model.swift */,
 				04152E312879BA1B00141D71 /* LearningGitHubApp.swift */,
 				04152E332879BA1B00141D71 /* ContentView.swift */,
 				04152E352879BA1D00141D71 /* Assets.xcassets */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04152E402879BF9500141D71 /* Model.swift in Sources */,
 				04152E342879BA1B00141D71 /* ContentView.swift in Sources */,
 				04152E322879BA1B00141D71 /* LearningGitHubApp.swift in Sources */,
 			);
